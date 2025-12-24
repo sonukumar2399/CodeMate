@@ -54,9 +54,4 @@ CodeMate is a **real-time collaborative code editor** that allows multiple users
 2. Socket.IO establishes a real-time connection with the server
 3. Code changes are instantly broadcast to all users in the room
 4. Theme and language changes are synchronized in real time
-5. Connected users list updates automatically when users join or leave
-
----
-
-## 🧩 Folder Structure (Simplified)
-
+5. Connected users list updates automatically when users join or leave.
